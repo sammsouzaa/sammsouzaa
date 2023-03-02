@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my profile !!
+## Hi there, I'm Sam 👋
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sammsouzaa&show_icons=true&theme=react&hide_border=true"/> 
