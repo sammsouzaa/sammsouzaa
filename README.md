@@ -11,7 +11,7 @@
   <a href="https://twitter.com/sxmuelzinho" target="_blank"><img src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/samsouzaars" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JeffersonRPM/sammsouzaa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
