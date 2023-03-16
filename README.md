@@ -1,8 +1,8 @@
 ## Hi there, I'm Sam 👋
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sammsouzaa&show_icons=true&theme=github_dark&hide_border=true"/> 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammsouzaa&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=sammsouzaa&show_icons=true&theme=github_dark&hide_border=true"/> 
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammsouzaa&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
 </div>
 
