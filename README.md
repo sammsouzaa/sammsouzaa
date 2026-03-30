@@ -1,39 +1,110 @@
-## Hi there, I'm Sam 👋
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Samuel+Souza;Backend+Developer;PHP+%7C+Java+%7C+MySQL;Building+real+systems" />
+</p>
 
-<div>
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=sammsouzaa&show_icons=true&theme=github_dark&hide_border=true"/> 
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammsouzaa&layout=compact&theme=github_dark&hide_border=true"/>
-  <br>
-</div>
+<h3 align="center">⚙️ Backend Developer focused on performance, automation and real-world systems</h3>
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+## 🧠 About Me
 
-</div>
+```json
+{
+  "name": "Samuel Souza",
+  "role": "Backend Developer",
+  "education": {
+    "course": "Computer Science",
+    "university": "UNIOESTE",
+    "year": "2nd"
+  },
+  "experience": [
+    "Brazilian Army Developer"
+  ],
+  "main_stack": ["PHP", "Java", "MySQL"],
+  "focus": [
+    "Scalable Systems",
+    "Automation",
+    "Backend Architecture",
+    "Performance Optimization"
+  ],
+  "current_goal": "Become a high-level backend engineer focused on real-world systems"
+}
+```
+---
 
-### 📱 How to Reach me:
-<div>
-  <a href="https://twitter.com/sxmuelzinho" target="_blank"><img src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/sammoreiira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  
+## 🚀 Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,java,mysql,docker,linux,git,github" />
+</p>
 
-<!--
-**sammsouzaa/sammsouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 Dev Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Snake animation](https://github.com/sammsouzaa/sammsouzaa/blob/output/github-contribution-grid-snake.svg)
--->
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammsouzaa&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammsouzaa&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammsouzaa&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammsouzaa&theme=tokyonight&utcOffset=-3"/>
+</p>
+
+---
+
+## 📊 Stats & Activity
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=sammsouzaa&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammsouzaa&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🧩 Current Focus
+
+- 🔐 Financial systems & APIs (Asaas, KYC, subaccounts)
+- ⚙️ Automation (military scheduling system)
+- 🧠 Backend architecture & clean code
+- 📈 Performance & scalability
+
+---
+
+## 🏗️ Featured Projects
+
+#### 🪖 Military Service Scheduler
+- Rule-based scaling engine  
+- Constraint handling  
+- Weekly recalculation  
+
+#### 💳 Financial Integration Platform
+- KYC automation  
+- Balance control  
+- Secure API integration  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:samu3ifpr@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/sammoreirax">
+    <img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammsouzaa&style=for-the-badge&color=blue"/>
+</p>
