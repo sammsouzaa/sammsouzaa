@@ -52,17 +52,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammsouzaa&theme=tokyonight&utcOffset=-3"/>
 </p>
 
----
-
-## 📊 Stats & Activity
-
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=sammsouzaa&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammsouzaa&theme=tokyo-night"/>
-</p>
 
 ---
 
