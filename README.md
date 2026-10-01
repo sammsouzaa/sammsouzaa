@@ -42,14 +42,34 @@
 ## 🏗️ Featured Projects
 
 #### 🪖 Military Service Scheduler
-- Rule-based scaling engine  
-- Constraint handling  
-- Weekly recalculation  
 
-#### 💳 Financial Integration Platform
-- KYC automation  
-- Balance control  
-- Secure API integration  
+* Rule-based personnel allocation
+* Constraint and availability handling
+* Weekly schedule recalculation
+* Automated assignment logic
+
+#### 🚗 FrotaOne — Fleet Management Platform
+
+* Real-time vehicle tracking
+* Fleet and maintenance management
+* Predictive maintenance analysis
+* Multi-level management system
+* Built for municipal fleet operations
+
+#### 🏡 Festly — Event Space Marketplace
+
+* SaaS platform for event-space management
+* Booking and availability management
+* Payment and escrow integration
+* Owner, customer and administrator platforms
+* REST API architecture
+
+#### 🛠️ Garanzia — Warranty & RMA Platform
+
+* B2B warranty management
+* RMA and reverse logistics workflows
+* Multi-profile administration
+* Post-sale process automation
 
 ---
 
