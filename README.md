@@ -26,8 +26,7 @@
     "Automation",
     "Backend Architecture",
     "Performance Optimization"
-  ],
-  "current_goal": "Become a high-level backend engineer focused on real-world systems"
+  ]
 }
 ```
 ---
@@ -35,32 +34,8 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,mysql,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,java,mysql,linux,git,github" />
 </p>
-
----
-
-## 📊 Dev Metrics
-
-<p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammsouzaa&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammsouzaa&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammsouzaa&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammsouzaa&theme=tokyonight&utcOffset=-3"/>
-</p>
-
-
----
-
-## 🧩 Current Focus
-
-- 🔐 Financial systems & APIs (Asaas, KYC, subaccounts)
-- ⚙️ Automation (military scheduling system)
-- 🧠 Backend architecture & clean code
-- 📈 Performance & scalability
 
 ---
 
@@ -87,13 +62,4 @@
   <a href="https://instagram.com/sammoreirax">
     <img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
-
----
-
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammsouzaa&style=for-the-badge&color=blue"/>
 </p>
